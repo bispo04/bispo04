@@ -1,16 +1,25 @@
-## Hi there 👋
+# Olá, eu sou o Bispo 👋
 
-<!--
-**bispo04/bispo04** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Sou estudante de programação e apaixonado por tecnologia. Estou aprendendo principalmente **C** e **Python**, sempre em busca de evoluir meus conhecimentos e criar projetos interessantes.
 
-Here are some ideas to get you started:
+## 🚀 Sobre mim
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 🎓 Estudante de Engenha de Software
+- 🎯 Focado em aprender e desenvolver novas habilidades em programação
+- 💻 Estudando C e Python
+- 🔭 Trabalhando em pequenos projetos para praticar
+- 📚 Sempre buscando novos desafios e aprendizados
+
+## 🛠️ Tecnologias e Ferramentas
+
+- Linguagens: **C**, **Python**
+- Ferramentas: **Git**, **GitHub**, **VS Code**
+- Conhecimentos básicos de algoritmos e lógica de programação
+
+
+## 📫 Como me encontrar
+
+- ✉️ Email: vitorbispoborges@gmail.com
+- 🌐 LinkedIn: https://www.linkedin.com/in/vitor-bispo-b811a9265/
+
+Obrigado por visitar meu perfil! 🚀
