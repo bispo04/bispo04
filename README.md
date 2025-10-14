@@ -12,7 +12,7 @@ Sou estudante de programação e apaixonado por tecnologia. Estou aprendendo pri
 
 ## 🛠️ Tecnologias e Ferramentas
 
-- Linguagens: **C**, **Python**
+- Linguagens: **C**, **Python**, **HTML**, **CSS**, **JavaScript**, **SQL**
 - Ferramentas: **Git**, **GitHub**, **VS Code**
 - Conhecimentos básicos de algoritmos e lógica de programação
 
